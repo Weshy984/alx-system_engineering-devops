@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 lrwxrwxrwx 1 root root 7 __ls__
+=======
+ln -s /bin/ls__ls__
+>>>>>>> 22eece5517eaabae12c7fdd7d065cc491009c706
